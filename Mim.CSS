@@ -1,0 +1,44 @@
+.heading{
+    color: green;
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+    color:red;
+    font-size: 34px;
+    text-align:center;
+}
+.jodhu{
+    color:black;
+    font-size: 23px;
+    background-color:bisque;
+}
+h4.head{
+    font: size 30px;
+}
+
+.ms2{
+    width:100%;
+    border:none;
+    height: 600px;;
+}
+.ms3{
+    height: 100%;
+    background-image:url("./img/pexels-pixabay-326212.jpg");
+    background-position:center;
+    background-repeat:no-repeat;
+    border:2px solid green;
+    border-radius:30px;
+}
+fieldset{
+    background-image:url("./img/pexels-sevenstormphotography-381739.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:left;
+    border:2px solid #29809B9;
+    border: radius 30px;
+    background-color:orangered;
+}
+body{
+    font-family: "Playwrite MX", cursive;
+}
